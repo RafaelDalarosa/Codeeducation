@@ -54,8 +54,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot][product-screenshot]
-
 This project have a goal to containerization a aplicattion in Go Language.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
