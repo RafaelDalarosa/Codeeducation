@@ -1,10 +1,5 @@
 <div id="top"></div>
 
-<!-- PROJECT SHIELDS -->
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
