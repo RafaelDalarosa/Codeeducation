@@ -88,7 +88,7 @@ Access Docker Website and choose you OS https://www.docker.com/get-started
    ```
 2. Execute the container in Docker
    ```sh
-   docker run --name "name of container" RafaelDalarosa/Codeeducation:latest
+   docker run --name "name_of_your_container" rafaeldalarosa/codeeducation:latest
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
