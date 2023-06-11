@@ -93,6 +93,8 @@ Access Docker Website and choose you OS https://www.docker.com/get-started
 
 Rafael Dalarosa - contato@rafaeldalarosa.com.br
 
+Commit Verified.
+
 Project Link: [https://github.com/RafaelDalarosa/Codeeducation](https://github.com/RafaelDalarosa/Codeeducation)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
